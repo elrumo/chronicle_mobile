@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900&display=swap');
+
+#ImageTitle{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%,-50%);
+    
+  }
+
+h3{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.image-wrapper{
+    width: 70vw;
+}
+
+.questions-image{
+    width: 100%;
+
+}
+
+.unselected{
+    color: black;
+}
+
+
+
+/* Home questions */
+#home-questions{
+padding-top: 50px;
+margin-bottom: 180px;
+}
+
+.questions-wrapper{
+}
+
+.subheading{
+    text-align: left;
+    position: relative;
+    left: 51%;
+    transform: translateX(-50%);
+    width: 90vw;
+    color: black;
+}
+
+h1,h2{
+    padding: 0;
+    margin: 0;
+}
+
+.subheading h1{
+    margin-top: -10px;
+}
+.subheading h2{
+    font-size: 1.1rem;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
